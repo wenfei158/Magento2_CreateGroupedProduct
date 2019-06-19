@@ -1,0 +1,23 @@
+{
+  "name": "magento2/creategroupedproduct",
+  "description": "Create grouped product for performance test of magento2",
+  "type": "magento2-module",
+  "version": "0.0.2",
+  "license": [
+    "OSL-3.0"
+  ],
+  "authors": [
+    {
+      "name": "Gao Yang",
+      "email": "wenfei158@gmail.com"
+    }
+  ],
+  "extra": {
+    "map": [
+      [
+        "*",
+        "Magento2/CreateGroupedProduct"
+      ]
+    ]
+  }
+}
