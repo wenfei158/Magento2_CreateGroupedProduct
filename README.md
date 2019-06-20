@@ -23,7 +23,7 @@ bin/magento setup:upgrade
 
 step 5 generate 1 million simple products
 
-bin/magento setup:perf:generate-fixtures ./app/code/magento2/CreateGroupedProduct/profiles/one_million_small_attribute.xml
+bin/magento setup:perf:generate-fixtures ./app/code/Magento2/CreateGroupedProduct/profiles/one_million_small_attribute.xml
 
 
 step 6 generate 100 thousands grouped products
